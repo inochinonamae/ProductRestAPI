@@ -2,110 +2,6 @@
     "products": [
         {
             "id": 1,
-            "title": "Mountaineering Softshell Jacket - Women",
-            "description": "This windproof, jacket is designed to protect you from unpredictable weather conditions when mountaineering.",
-            "price": 60,
-            "discountPercentage": 20,
-            "rating": 4.69,
-            "stock": 94,
-            "brand": "Nike",
-            "category": "Women_Jacket",
-            "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/1/1.jpg",
-        
-            ]
-        },
-        {
-            "id": 2,
-            "title": "Foot Wear - Women",
-            "description": "Comfort&Warmth:Womens winter sneakers fully lined from the outsole to the insole,cover your feet with warmth all day.Provides everywhere comfort.",
-            "price": 69.99,
-            "discountPercentage": 0,
-            "rating": 4.44,
-            "stock": 34,
-            "brand": "Nike",
-            "category": "Women_Footwear",
-            "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/2/1.jpg",
-                "https://i.dummyjson.com/data/products/2/2.jpg",
-                "https://i.dummyjson.com/data/products/2/3.jpg",
-                "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 3,
-            "title": "Wearlizer Compatible with Fitbit Sense Bands",
-            "description": "Wearlizer Compatible with Fitbit Sense Bands",
-            "price": 20,
-            "discountPercentage": 15.46,
-            "rating": 4.09,
-            "stock": 36,
-            "brand": "Samsung",
-            "category": "Women_Accessories",
-            "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/3/1.jpg"
-            ]
-        },
-        {
-            "id": 4,
-            "title": "Adult Skiing Helmet Visor",
-            "description": "Ultralight on the outside, plush on the inside, the women's Smith Allure Helmet is no-fuss, go-to protection for the mountain. This ski and snowboard helmet is outfitted with the latest safety innovations, including MIPS® for the peace of mind to ski and ride at your pace and nine fixed vents to keep the air flowing and your goggles fog-free.",
-            "price": 280,
-            "discountPercentage": 145.55,
-            "rating": 4.3,
-            "stock": 123,
-            "brand": "Smith",
-            "category": "women-Accessories",
-            "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/4/1.jpg",
-                "https://i.dummyjson.com/data/products/4/2.jpg",
-                "https://i.dummyjson.com/data/products/4/3.jpg",
-                "https://i.dummyjson.com/data/products/4/4.jpg",
-                "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 5,
-            "title": "Hiking Windproof Gloves",
-            "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-            "price": 35,
-            "discountPercentage": 3,
-            "rating": 4.09,
-            "stock": 32,
-            "brand": "Nike",
-            "category": "women-Accessories",
-            "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/5/1.jpg",
-                "https://i.dummyjson.com/data/products/5/2.jpg",
-                "https://i.dummyjson.com/data/products/5/3.jpg"
-            ]
-        },
-
-        {
-            "id": 6,
-            "title": "Women’s Ski Jacket - fR 500 Pink",
-            "description": "Medium-weight insulation for perfect balance between warmth and performance (60gsm body, 40gsm sleeves and hood).",
-            "price": 250,
-            "discountPercentage": 11.02,
-            "rating": 4.57,
-            "stock": 83,
-            "brand": "Montec",
-            "category": "Women_Jacket",
-            "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
-            "images": [
-                "https://i.dummyjson.com/data/products/6/1.png",
-                "https://i.dummyjson.com/data/products/6/2.jpg",
-                "https://i.dummyjson.com/data/products/6/3.png",
-                "https://i.dummyjson.com/data/products/6/4.jpg"
-            ]
-        },
-        {
-            "id": 7,
             "title": "Women’s Ski Jacket - FR 900 Blue",
             "description": "Medium-weight insulation for perfect balance between warmth and performance (60gsm body, 40gsm sleeves and hood).",
             "price": 250,
@@ -114,16 +10,11 @@
             "stock": 83,
             "brand": "Montec",
             "category": "Women_Jacket",
-            "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
-            "images": [
-                "https://i.dummyjson.com/data/products/6/1.png",
-                "https://i.dummyjson.com/data/products/6/2.jpg",
-                "https://i.dummyjson.com/data/products/6/3.png",
-                "https://i.dummyjson.com/data/products/6/4.jpg"
-            ]
+            "thumbnail": "",
+            "images": []
         },
         {
-            "id": 7,
+            "id": 2,
             "title": "Women's Warm Sleeveless Running Gilet",
             "description": "This vest was designed to protect you from the cold when out running. Tested for optimal comfort between 0°C and 5°C (32°F and 41°F). A running vest for extra warmth when running in cool weather. Great freedom of movement thanks to the elastic fabric on the sides.",
             "price": 45,
@@ -132,16 +23,11 @@
             "stock": 50,
             "brand": "Kalenji",
             "category": "Women_Jacket",
-            "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/7/1.jpg",
-                "https://i.dummyjson.com/data/products/7/2.jpg",
-                "https://i.dummyjson.com/data/products/7/3.jpg",
-                "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
-            ]
+            "thumbnail": "",
+            "images": []
         },
         {
-            "id": 8,
+            "id": 3,
             "title": "Women's Water Repellent Hooded Running Jacket",
             "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
             "price": 1499,
@@ -150,17 +36,24 @@
             "stock": 68,
             "brand": "Microsoft Surface",
             "category": "Women_Jacket",
-            "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/8/1.jpg",
-                "https://i.dummyjson.com/data/products/8/2.jpg",
-                "https://i.dummyjson.com/data/products/8/3.jpg",
-                "https://i.dummyjson.com/data/products/8/4.jpg",
-                "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
-            ]
+            "thumbnail": "",
+            "images": []
         },
         {
-            "id": 9,
+            "id": 4,
+            "title": "Mountaineering Softshell Jacket - Women",
+            "description": "This windproof, jacket is designed to protect you from unpredictable weather conditions when mountaineering.",
+            "price": 60,
+            "discountPercentage": 20,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Nike",
+            "category": "Women_Jacket",
+            "thumbnail": "",
+            "images": []
+        },
+        {
+            "id": 5,
             "title": "Fast 500 Basketball Low-Rise Shoes - Women",
             "description": "These basketball shoes were designed for intermediate players with a playing style based on acceleration and fast changes of direction. Designed for basketball players looking for maximum lightness, grip, and comfort, with an interior volume specifically designed for women’s feet.",
             "price": 1099,
@@ -169,370 +62,12 @@
             "stock": 96,
             "brand": "Infinix",
             "category": "Women_Jacket",
-            "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/9/1.jpg",
-                "https://i.dummyjson.com/data/products/9/2.png",
-                "https://i.dummyjson.com/data/products/9/3.png",
-                "https://i.dummyjson.com/data/products/9/4.jpg",
-                "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
-            ]
+            "thumbnail": "",
+            "images": []
         },
         {
-            "id": 10,
-            "title": "SH 500 X-Warm Hiking Boots – Men",
-            "description": "Keen to get out and start enjoying the wide expanses of snow? These boots are ideal for regular cold weather hikes in packed or deep snow. Eco-designed and warm with a waterproof cradle, these boots are easy to get on and off and provide good support with built-in lacing. The Snow Contact sole offers great grip in snow.",
-            "price": 70,
-            "discountPercentage": 6.18,
-            "rating": 4.43,
-            "stock": 89,
-            "brand": "Decathlon",
-            "category": "men-footwear",
-            "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
-            "images": [
-                "https://i.dummyjson.com/data/products/10/1.jpg",
-                "https://i.dummyjson.com/data/products/10/2.jpg",
-                "https://i.dummyjson.com/data/products/10/3.jpg",
-                "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
-            ]
-        },
-        {
-            "id": 11,
-            "title": "Men's Waterproof Hiking Shoes - MH 100 MID Black",
-            "description": "These shoes were designed for occasional hikes. Essential to enjoy the mountains. These hiking shoes have everything for the mountains: excellent grip sole, good fit with its waterproof mid-height upper, protective stone guard at the front, and full cushioning.",
-            "price": 25,
-            "discountPercentage": 2,
-            "rating": 4.26,
-            "stock": 65,
-            "brand": "Impression of Acqua Di Gio",
-            "category": "men-footwear",
-            "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/11/1.jpg",
-                "https://i.dummyjson.com/data/products/11/2.jpg",
-                "https://i.dummyjson.com/data/products/11/3.jpg",
-                "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 12,
-            "title": "Men’s Beginner Basketball Shoes",
-            "description": "Designed for hiking in all snow and wind conditions in temperatures as cold as -23°C. The jacket you need to protect your child from the cold and snow: warm, waterproof, and stylish. Comfortable to -23°C.",
-            "price": 30,
-            "discountPercentage": 0,
-            "rating": 4,
-            "stock": 52,
-            "brand": "Royal_Mirage",
-            "category": "Men-foorwear",
-            "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/12/1.jpg",
-                "https://i.dummyjson.com/data/products/12/2.jpg",
-                "https://i.dummyjson.com/data/products/12/3.png",
-                "https://i.dummyjson.com/data/products/12/4.jpg",
-                "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 13,
-            "title": "Kids' Ski Jacket - FR 900 Beige",
-            "description": "Designed for hiking in all snow and wind conditions in temperatures as cold as -23°C. The jacket you need to protect your child from the cold and snow: warm, waterproof, and stylish. Comfortable to -23°C.",
-            "price": 80,
-            "discountPercentage": 15.66,
-            "rating": 4.59,
-            "stock": 61,
-            "brand": "Fog Scent Xpressio",
-            "category": "Men-Jacket",
-            "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
-            "images": [
-                "https://i.dummyjson.com/data/products/13/1.jpg",
-                "https://i.dummyjson.com/data/products/13/2.png",
-                "https://i.dummyjson.com/data/products/13/3.jpg",
-                "https://i.dummyjson.com/data/products/13/4.jpg",
-                "https://i.dummyjson.com/data/products/13/thumbnail.webp"
-            ]
-        },
-
-
-
-        {
-            "id": 14,
-            "title": "Run Rain Running Jacket - Men",
-            "description": "Reflective details on the back and sleeves of this lightweight jacket help keep you visible so you can keep on running.",
-            "price": 120,
-            "discountPercentage": 15.6,
-            "rating": 4.21,
-            "stock": 114,
-            "brand": "Addidas",
-            "category": "Men-Jacket",
-            "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/14/1.jpg",
-                "https://i.dummyjson.com/data/products/14/2.jpg",
-                "https://i.dummyjson.com/data/products/14/3.jpg",
-                "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 15,
-            "title": "Run Rain Running Jacket - Men",
-            "description": "This lightweight jacket has integrated ventilation and reflective details to help you power through early morning runs. Its classic fit complements the rest of your day, too.",
-            "price": 100,
-            "discountPercentage": 10.99,
-            "rating": 4.7,
-            "stock": 105,
-            "brand": "Lululemon",
-            "category": "Men-Jacket",
-            "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/15/1.jpg",
-                "https://i.dummyjson.com/data/products/15/2.jpg",
-                "https://i.dummyjson.com/data/products/15/3.jpg",
-                "https://i.dummyjson.com/data/products/15/4.jpg",
-                "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 16,
-            "title": "Men’s Snowboard Jacket - 500 Black",
-            "description": "Medium-weight insulation for perfect balance between warmth and performance (60gsm body, 40gsm sleeves and hood).",
-            "price": 120,
-            "discountPercentage": 13.31,
-            "rating": 4.83,
-            "stock": 110,
-            "brand": "Lululemon",
-            "category": "Men-Jacket",
-            "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/16/1.png",
-                "https://i.dummyjson.com/data/products/16/2.webp",
-                "https://i.dummyjson.com/data/products/16/3.jpg",
-                "https://i.dummyjson.com/data/products/16/4.jpg",
-                "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 17,
-            "title": "Kids' Ski Jacket - FR 900 Beige",
-            "description": "This jacket is designed to keep freeriders and ski tourers dry when skiing intensively in all conditions. Do you practice freeride skiing and ski touring all season long? This waterproof, breathable technical jacket will meet all your expectations.",
-            "price": 250,
-            "discountPercentage": 0,
-            "rating": 4.52,
-            "stock": 78,
-            "brand": "Lululemon",
-            "category": "Men-Jacket",
-            "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/17/1.jpg",
-                "https://i.dummyjson.com/data/products/17/2.jpg",
-                "https://i.dummyjson.com/data/products/17/3.jpg",
-                "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 18,
-            "title": "Fitness Dumbbells ",
-            "description": "Adjustable Fitness Dumbbells Set with a connecting rod which is covered with a rubber coating ensure a firm grip and non-slip grip can provide you a safe and secure exercise experience.",
-            "price": 56.11,
-            "discountPercentage": 20,
-            "rating": 4.56,
-            "stock": 88,
-            "brand": "QLONG",
-            "category": "Clearance-Equinpment",
-            "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/18/1.jpg",
-            ]
-        },
-        {
-            "id": 19,
-            "title": "Foam Surfboard 7'8 500",
-            "description": "Supplied with a leash and three fins",
-            "price": 46,
-            "discountPercentage": 0,
-            "rating": 4.42,
-            "stock": 54,
-            "brand": "ROREC White Rice",
-            "category": "Clearance-Equinpment",
-            "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/19/1.jpg",
-                "https://i.dummyjson.com/data/products/19/2.jpg",
-                "https://i.dummyjson.com/data/products/19/3.png",
-                "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 20,
-            "title": "Folding Camping Chairs - MH 100",
-            "description": "This camping chair was carefully developed to be compact and easy to set up. An affordable camping seat that passes all our durability tests. An affordable camping seat that passes all our durability tests. This lightweight chair is a simple, easy-to-carry, seating solution.",
-            "price": 20,
-            "discountPercentage": 12,
-            "rating": 4.06,
-            "stock": 140,
-            "brand": "Fair & Clear",
-            "category": "Clearance-Equinpment",
-            "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/20/1.jpg",
-                "https://i.dummyjson.com/data/products/20/2.jpg",
-                "https://i.dummyjson.com/data/products/20/3.jpg",
-                "https://i.dummyjson.com/data/products/20/4.jpg",
-                "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 21,
-            "title": "Riverside 100 Hybrid Bike",
-            "description": "Fine quality Branded Product Keep in a cool and dry place",
-            "price": 20,
-            "discountPercentage": 4.81,
-            "rating": 4.44,
-            "stock": 133,
-            "brand": "Saaf & Khaas",
-            "category": "Clearance-Equinpment",
-            "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.png",
-            "images": [
-                "https://i.dummyjson.com/data/products/21/1.png",
-                "https://i.dummyjson.com/data/products/21/2.jpg",
-                "https://i.dummyjson.com/data/products/21/3.jpg"
-            ]
-        },
-        {
-            "id": 22,
-            "title": "Elbow Macaroni - 400 gm",
-            "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
-            "price": 14,
-            "discountPercentage": 15.58,
-            "rating": 4.57,
-            "stock": 146,
-            "brand": "Bake Parlor Big",
-            "category": "groceries",
-            "thumbnail": "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/22/1.jpg",
-                "https://i.dummyjson.com/data/products/22/2.jpg",
-                "https://i.dummyjson.com/data/products/22/3.jpg"
-            ]
-        },
-        {
-            "id": 23,
-            "title": "Orange Essence Food Flavou",
-            "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
-            "price": 14,
-            "discountPercentage": 8.04,
-            "rating": 4.85,
-            "stock": 26,
-            "brand": "Baking Food Items",
-            "category": "groceries",
-            "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/23/1.jpg",
-                "https://i.dummyjson.com/data/products/23/2.jpg",
-                "https://i.dummyjson.com/data/products/23/3.jpg",
-                "https://i.dummyjson.com/data/products/23/4.jpg",
-                "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 24,
-            "title": "cereals muesli fruit nuts",
-            "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
-            "price": 46,
-            "discountPercentage": 16.8,
-            "rating": 4.94,
-            "stock": 113,
-            "brand": "fauji",
-            "category": "groceries",
-            "thumbnail": "https://i.dummyjson.com/data/products/24/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/24/1.jpg",
-                "https://i.dummyjson.com/data/products/24/2.jpg",
-                "https://i.dummyjson.com/data/products/24/3.jpg",
-                "https://i.dummyjson.com/data/products/24/4.jpg",
-                "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 25,
-            "title": "Gulab Powder 50 Gram",
-            "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
-            "price": 70,
-            "discountPercentage": 13.58,
-            "rating": 4.87,
-            "stock": 47,
-            "brand": "Dry Rose",
-            "category": "groceries",
-            "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/25/1.png",
-                "https://i.dummyjson.com/data/products/25/2.jpg",
-                "https://i.dummyjson.com/data/products/25/3.png",
-                "https://i.dummyjson.com/data/products/25/4.jpg",
-                "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 26,
-            "title": "Plant Hanger For Home",
-            "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
-            "price": 41,
-            "discountPercentage": 17.86,
-            "rating": 4.08,
-            "stock": 131,
-            "brand": "Boho Decor",
-            "category": "home-decoration",
-            "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/26/1.jpg",
-                "https://i.dummyjson.com/data/products/26/2.jpg",
-                "https://i.dummyjson.com/data/products/26/3.jpg",
-                "https://i.dummyjson.com/data/products/26/4.jpg",
-                "https://i.dummyjson.com/data/products/26/5.jpg",
-                "https://i.dummyjson.com/data/products/26/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 27,
-            "title": "Flying Wooden Bird",
-            "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
-            "price": 51,
-            "discountPercentage": 15.58,
-            "rating": 4.41,
-            "stock": 17,
-            "brand": "Flying Wooden",
-            "category": "home-decoration",
-            "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.webp",
-            "images": [
-                "https://i.dummyjson.com/data/products/27/1.jpg",
-                "https://i.dummyjson.com/data/products/27/2.jpg",
-                "https://i.dummyjson.com/data/products/27/3.jpg",
-                "https://i.dummyjson.com/data/products/27/4.jpg",
-                "https://i.dummyjson.com/data/products/27/thumbnail.webp"
-            ]
-        },
-        {
-            "id": 28,
-            "title": "3D Embellishment Art Lamp",
-            "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
-            "price": 20,
-            "discountPercentage": 16.49,
-            "rating": 4.82,
-            "stock": 54,
-            "brand": "LED Lights",
-            "category": "home-decoration",
-            "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/28/1.jpg",
-                "https://i.dummyjson.com/data/products/28/2.jpg",
-                "https://i.dummyjson.com/data/products/28/3.png",
-                "https://i.dummyjson.com/data/products/28/4.jpg",
-                "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 30,
-            "title": "Women's Gym Mid-Height Shoes - 140 Black",
+            "id": 6,
+            "title": "Gym Mid-Height Shoes - 140 Black -Women",
             "description": "These shoes provide stylish flair for your gym workouts. Stylish details for a flawless look. These shoes give you an extra push!",
             "price": 50,
             "discountPercentage": 0,
@@ -540,36 +75,11 @@
             "stock": 7,
             "brand": "decathlon",
             "category": "women-footwear",
-            "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.webp",
-            "images": [
-                "https://i.dummyjson.com/data/products/29/1.jpg",
-                "https://i.dummyjson.com/data/products/29/2.jpg",
-                "https://i.dummyjson.com/data/products/29/3.webp",
-                "https://i.dummyjson.com/data/products/29/4.webp",
-                "https://i.dummyjson.com/data/products/29/thumbnail.webp"
-            ]
+            "thumbnail": "",
+            "images": []
         },
         {
-            "id": 29,
-            "title": "Fast 500 Basketball Low-Rise Shoes - Women",
-            "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
-            "price": 30,
-            "discountPercentage": 2.92,
-            "rating": 4.92,
-            "stock": 54,
-            "brand": "Golden",
-            "category": "women-footwear",
-            "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/30/1.jpg",
-                "https://i.dummyjson.com/data/products/30/2.jpg",
-                "https://i.dummyjson.com/data/products/30/3.jpg",
-                "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
-            ]
-        }
-        ,
-        {
-            "id": 31,
+            "id": 7,
             "title": "Women's Leather Winter Hiking Boots - SH 500",
             "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
             "price": 130,
@@ -578,17 +88,11 @@
             "stock": 54,
             "brand": "Golden",
             "category": "women-footwear",
-            "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/30/1.jpg",
-                "https://i.dummyjson.com/data/products/30/2.jpg",
-                "https://i.dummyjson.com/data/products/30/3.jpg",
-                "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
-            ]
-        }
-        ,
+            "thumbnail": "",
+            "images": []
+        },
         {
-            "id": 32,
+            "id": 8,
             "title": "Women's Waterproof Hiking Boots - MH 500 Grey",
             "description": "These waterproof boots were designed for regular hikes. Discover the mountains with comfort at every step. Hike comfortably: the Evofit concept adapts to your foot and has double cushioning. Hike safely: a waterproof leather upper with rubber stone-guards and a tread with great traction.",
             "price": 110,
@@ -597,13 +101,164 @@
             "stock": 54,
             "brand": "Golden",
             "category": "women-footwear",
-            "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/30/1.jpg",
-                "https://i.dummyjson.com/data/products/30/2.jpg",
-                "https://i.dummyjson.com/data/products/30/3.jpg",
-                "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
-            ]
+            "thumbnail": "",
+            "images": []
+        }
+        {
+            "id": 9,
+            "title": "Kids' Ski Jacket - FR 900 Beige",
+            "description": "Designed for hiking in all snow and wind conditions in temperatures as cold as -23°C. The jacket you need to protect your child from the cold and snow: warm, waterproof, and stylish. Comfortable to -23°C.",
+            "price": 80,
+            "discountPercentage": 15.66,
+            "rating": 4.59,
+            "stock": 61,
+            "brand": "Decathlon",
+            "category": "Men-Jacket",
+            "thumbnail": "",
+            "images": []
+        },
+        {
+            "id": 10,
+            "title": "Men's Run Rain Running Jacket",
+            "description": "Reflective details on the back and sleeves of this lightweight jacket help keep you visible so you can keep on running.",
+            "price": 120,
+            "discountPercentage": 15.6,
+            "rating": 4.21,
+            "stock": 114,
+            "brand": "Addidas",
+            "category": "Men-Jacket",
+            "thumbnail": "",
+            "images": []
+        },
+        {
+            "id": 11,
+            "title": "Men's Run Wind Running Wind Jacket",
+            "description": "This lightweight jacket has integrated ventilation and reflective details to help you power through early morning runs. Its classic fit complements the rest of your day, too.",
+            "price": 100,
+            "discountPercentage": 10.99,
+            "rating": 4.7,
+            "stock": 105,
+            "brand": "Lululemon",
+            "category": "Men-Jacket",
+            "thumbnail": "",
+            "images": []
+        },
+        {
+            "id": 12,
+            "title": "Men’s Snowboard Jacket - 500 Black",
+            "description": "Medium-weight insulation for perfect balance between warmth and performance (60gsm body, 40gsm sleeves and hood).",
+            "price": 120,
+            "discountPercentage": 13.31,
+            "rating": 4.83,
+            "stock": 110,
+            "brand": "Lululemon",
+            "category": "Men-Jacket",
+            "thumbnail": "",
+            "images": []
+        },
+        {
+            "id": 13,
+            "title": "Men's SH 500 X-Warm Hiking Boots",
+            "description": "Keen to get out and start enjoying the wide expanses of snow? These boots are ideal for regular cold weather hikes in packed or deep snow. Eco-designed and warm with a waterproof cradle, these boots are easy to get on and off and provide good support with built-in lacing. The Snow Contact sole offers great grip in snow.",
+            "price": 70,
+            "discountPercentage": 6.18,
+            "rating": 4.43,
+            "stock": 89,
+            "brand": "Decathlon",
+            "category": "Men_Footwear",
+            "thumbnail": "",
+            "images": []
+        },
+        {
+            "id": 14,
+            "title": "Men's Waterproof Hiking Shoes - MH 100 MID Black",
+            "description": "These shoes were designed for occasional hikes. Essential to enjoy the mountains. These hiking shoes have everything for the mountains: excellent grip sole, good fit with its waterproof mid-height upper, protective stone guard at the front, and full cushioning.",
+            "price": 25,
+            "discountPercentage": 2,
+            "rating": 4.26,
+            "stock": 65,
+            "brand": "Decathlon",
+            "category": "Men_Footwear",
+            "thumbnail": "",
+            "images": []
+        },
+        {
+            "id": 15,
+            "title": "Men’s Beginner Basketball Shoes",
+            "description": "Designed for hiking in all snow and wind conditions in temperatures as cold as -23°C. The jacket you need to protect your child from the cold and snow: warm, waterproof, and stylish. Comfortable to -23°C.",
+            "price": 30,
+            "discountPercentage": 0,
+            "rating": 4,
+            "stock": 52,
+            "brand": "Decathlon",
+            "category": "Men_Footwear",
+            "thumbnail": "",
+            "images": []
+        },
+        {
+            "id": 16,
+            "title": "Men's Viralto I MG soccer cleats",
+            "description": "Designed for playing on dry fields up to 3 times a week.  Comfort.Versatility. With a Multi Ground sole and thick upper, the Viralto I is great for use on any type of dry field (natural grass or artificial turf).",
+            "price": 50,
+            "discountPercentage": 0,
+            "rating": 4,
+            "stock": 52,
+            "brand": "Decathlon",
+            "category": "Men_Footwear",
+            "thumbnail": "",
+            "images": []
+        },
+        {
+            "id": 17,
+            "title": "Fitness Dumbbells ",
+            "description": "Adjustable Fitness Dumbbells Set with a connecting rod which is covered with a rubber coating ensure a firm grip and non-slip grip can provide you a safe and secure exercise experience.",
+            "price": 56.11,
+            "discountPercentage": 20,
+            "rating": 4.56,
+            "stock": 88,
+            "brand": "QLONG",
+            "category": "Clearance-Equinpment",
+            "thumbnail": "",
+            "images": []
+        },
+        {
+            "id": 18,
+            "title": "Foam Surfboard 7'8 500",
+            "description": "Supplied with a leash and three fins",
+            "price": 46,
+            "discountPercentage": 0,
+            "rating": 4.42,
+            "stock": 54,
+            "brand": "ROREC White Rice",
+            "category": "Clearance-Equinpment",
+            "thumbnail": "",
+            "images": []
+        },
+        {
+            "id": 19,
+            "title": "Folding Camping Chairs - MH 100",
+            "description": "This camping chair was carefully developed to be compact and easy to set up. An affordable camping seat that passes all our durability tests. An affordable camping seat that passes all our durability tests. This lightweight chair is a simple, easy-to-carry, seating solution.",
+            "price": 20,
+            "discountPercentage": 12,
+            "rating": 4.06,
+            "stock": 140,
+            "brand": "Fair & Clear",
+            "category": "Clearance-Equinpment",
+            "thumbnail": "",
+            "images": []
+        },
+        {
+            "id": 20,
+            "title": "Riverside 100 Hybrid Bike",
+            "description": "Fine quality Branded Product Keep in a cool and dry place",
+            "price": 20,
+            "discountPercentage": 4.81,
+            "rating": 4.44,
+            "stock": 133,
+            "brand": "Saaf & Khaas",
+            "category": "Clearance-Equinpment",
+            "thumbnail": "",
+            "images": []
         }
     ],
     "total": 100,
