@@ -49,6 +49,6 @@
             "brand": "Nike",
             "category": "Women_Jackets",
             "thumbnail": "",
-            "images": []
+            "images": "https://inochinonamae.github.io/ProductRestAPI/images/Women_Jackets/women_jacket_4.png"
         }
 ]
