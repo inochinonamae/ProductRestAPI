@@ -10,7 +10,7 @@
             "brand": "Nike",
             "category": "Women_Jackets",
             "thumbnail": "",
-            "images": []
+            "images": [https://inochinonamae.github.io/ProductRestAPI/images/Women_Jackets/women_jacket_1.png]
         },
         {
             "id": 2,
@@ -23,7 +23,7 @@
             "brand": "Kalenji",
             "category": "Women_Jackets",
             "thumbnail": "",
-            "images": []
+            "images": [https://inochinonamae.github.io/ProductRestAPI/images/Women_Jackets/women_jacket_2.png]
         },
         {
             "id": 3,
@@ -36,7 +36,7 @@
             "brand": "Microsoft Surface",
             "category": "Women_Jackets",
             "thumbnail": "",
-            "images": []
+            "images": [https://inochinonamae.github.io/ProductRestAPI/images/Women_Jackets/women_jacket_3.png]
         },
         {
             "id": 4,
