@@ -1,0 +1,54 @@
+[
+        {
+            "id": 1,
+            "title": "Women’s Ski Jacket - FR 900 Blue",
+            "description": "Medium-weight insulation for perfect balance between warmth and performance (60gsm body, 40gsm sleeves and hood).",
+            "price": 249,
+            "discountPercentage": 11.02,
+            "rating": 4.57,
+            "stock": 83,
+            "brand": "Nike",
+            "category": "Women_Jackets",
+            "thumbnail": "",
+            "images": "https://inochinonamae.github.io/ProductRestAPI/images/Women_Jackets/women_jacket_1.png"
+        },
+        {
+            "id": 2,
+            "title": "Women's Warm Sleeveless Running Gilet",
+            "description": "This vest was designed to protect you from the cold when out running. Tested for optimal comfort between 0°C and 5°C (32°F and 41°F). A running vest for extra warmth when running in cool weather. Great freedom of movement thanks to the elastic fabric on the sides.",
+            "price": 239,
+            "discountPercentage": 4.15,
+            "rating": 4.25,
+            "stock": 50,
+            "brand": "Kalenji",
+            "category": "Women_Jackets",
+            "thumbnail": "",
+            "images": "https://inochinonamae.github.io/ProductRestAPI/images/Women_Jackets/women_jacket_2.png"
+        },
+        {
+            "id": 3,
+            "title": "Women's Water Repellent Hooded Running Jacket",
+            "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+            "price": 239,
+            "discountPercentage": 10.23,
+            "rating": 4.43,
+            "stock": 68,
+            "brand": "Microsoft Surface",
+            "category": "Women_Jackets",
+            "thumbnail": "",
+            "images": "https://inochinonamae.github.io/ProductRestAPI/images/Women_Jackets/women_jacket_3.png"
+        },
+        {
+            "id": 4,
+            "title": "Women’s Ski Jacket – FR 500 Pink",
+            "description": "This windproof, jacket is designed to protect you from unpredictable weather conditions when mountaineering.",
+            "price": 249,
+            "discountPercentage": 20,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Nike",
+            "category": "Women_Jackets",
+            "thumbnail": "",
+            "images": "https://inochinonamae.github.io/ProductRestAPI/images/Women_Jackets/women_jacket_4.png"
+        }
+]
