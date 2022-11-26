@@ -1,82 +1,82 @@
 {
     "products": [
-        {
+         {
             "id": 1,
             "title": "Women’s Ski Jacket - FR 900 Blue",
             "description": "Medium-weight insulation for perfect balance between warmth and performance (60gsm body, 40gsm sleeves and hood).",
-            "price": 250,
+            "price": 249,
             "discountPercentage": 11.02,
             "rating": 4.57,
             "stock": 83,
-            "brand": "Montec",
-            "category": "Women_Jacket",
+            "brand": "Nike",
+            "category": "Women_Jackets",
             "thumbnail": "",
-            "images": []
+            "images": "https://inochinonamae.github.io/ProductRestAPI/images/Women_Jackets/women_jacket_1.png"
         },
         {
             "id": 2,
             "title": "Women's Warm Sleeveless Running Gilet",
             "description": "This vest was designed to protect you from the cold when out running. Tested for optimal comfort between 0°C and 5°C (32°F and 41°F). A running vest for extra warmth when running in cool weather. Great freedom of movement thanks to the elastic fabric on the sides.",
-            "price": 45,
+            "price": 239,
             "discountPercentage": 4.15,
             "rating": 4.25,
             "stock": 50,
             "brand": "Kalenji",
-            "category": "Women_Jacket",
+            "category": "Women_Jackets",
             "thumbnail": "",
-            "images": []
+            "images": "https://inochinonamae.github.io/ProductRestAPI/images/Women_Jackets/women_jacket_2.png"
         },
         {
             "id": 3,
             "title": "Women's Water Repellent Hooded Running Jacket",
             "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
-            "price": 1499,
+            "price": 239,
             "discountPercentage": 10.23,
             "rating": 4.43,
             "stock": 68,
             "brand": "Microsoft Surface",
-            "category": "Women_Jacket",
+            "category": "Women_Jackets",
             "thumbnail": "",
-            "images": []
+            "images": "https://inochinonamae.github.io/ProductRestAPI/images/Women_Jackets/women_jacket_3.png"
         },
         {
             "id": 4,
-            "title": "Mountaineering Softshell Jacket - Women",
+            "title": "Women’s Ski Jacket – FR 500 Pink",
             "description": "This windproof, jacket is designed to protect you from unpredictable weather conditions when mountaineering.",
-            "price": 60,
+            "price": 249,
             "discountPercentage": 20,
             "rating": 4.69,
             "stock": 94,
             "brand": "Nike",
-            "category": "Women_Jacket",
+            "category": "Women_Jackets",
             "thumbnail": "",
-            "images": []
+            "images": "https://inochinonamae.github.io/ProductRestAPI/images/Women_Jackets/women_jacket_4.png"
         },
         {
             "id": 5,
             "title": "Fast 500 Basketball Low-Rise Shoes - Women",
             "description": "These basketball shoes were designed for intermediate players with a playing style based on acceleration and fast changes of direction. Designed for basketball players looking for maximum lightness, grip, and comfort, with an interior volume specifically designed for women’s feet.",
-            "price": 1099,
+            "price": 200,
             "discountPercentage": 11.83,
             "rating": 4.54,
             "stock": 96,
             "brand": "Infinix",
             "category": "Women_Jacket",
             "thumbnail": "",
-            "images": []
+            "images": "https://github.com/inochinonamae/ProductRestAPI/blob/main/images/women-footwear/women_footwear_1.png"
         },
         {
             "id": 6,
             "title": "Gym Mid-Height Shoes - 140 Black -Women",
             "description": "These shoes provide stylish flair for your gym workouts. Stylish details for a flawless look. These shoes give you an extra push!",
-            "price": 50,
+            "price": 200,
             "discountPercentage": 0,
             "rating": 4.44,
             "stock": 7,
             "brand": "decathlon",
             "category": "women-footwear",
             "thumbnail": "",
-            "images": []
+            "images": "https://github.com/inochinonamae/ProductRestAPI/blob/main/images/women-footwear/women_footwear_2.png"
         },
         {
             "id": 7,
@@ -89,7 +89,7 @@
             "brand": "Golden",
             "category": "women-footwear",
             "thumbnail": "",
-            "images": []
+            "images": "https://github.com/inochinonamae/ProductRestAPI/blob/main/images/women-footwear/women_footwear_3.png"
         },
         {
             "id": 8,
@@ -102,7 +102,7 @@
             "brand": "Golden",
             "category": "women-footwear",
             "thumbnail": "",
-            "images": []
+            "images": "https://github.com/inochinonamae/ProductRestAPI/blob/main/images/women-footwear/women_footwear_4.png"
         }
         {
             "id": 9,
