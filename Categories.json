@@ -1,1 +1,25 @@
-["Men","Women", "Clearance"]
+{
+    "Categories": [
+        {
+            "id": 1,
+            "Main_catagory": "Women",
+            "Sub_catagory": [
+                "Women Jackets",
+                "Women Footwear"
+            ]
+        },
+        {
+            "id": 2,
+            "Main_catagory": "Men",
+            "Sub_catagory": [
+                "Men Jackets",
+                "Men Footwear"
+            ]
+        },
+        {
+            "id": 2,
+            "Main_catagory": "Clearance",
+            "Sub_catagory": "Clearance Equinpment"
+        }
+    ]
+}
